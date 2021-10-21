@@ -48,7 +48,7 @@ li {
   font-size: 100px;
   font-weight: 800;
   line-height: 1;
-  text-align: center;
+  text-align: left;
 }
 
 .units {
@@ -59,4 +59,9 @@ li {
 .search-form {
   margin-bottom: 30px;
   text-align: center;
+}
+
+p {
+    font-family: arial;
+    text-align: center;
 }
